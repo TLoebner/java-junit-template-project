@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/mplacona/java-junit-template-project.png?branch=master)](https://travis-ci.org/mplacona/java-junit-template-project)
+[![Build 
+Status](https://travis-ci.org/TLoebner/java-junit-template-project.svg)](https://travis-ci.org/TLoebner/java-junit-template-project)
 
 # Java + Junit + Ant Template Project
 ----------
